@@ -31,7 +31,7 @@ Download the script:
 curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
 ```
 
-Review the script (avoid running scripts you haven't read!):
+Review the script (never run scripts you haven't read!):
 
 ```sh
 less mac
